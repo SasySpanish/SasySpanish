@@ -3,20 +3,18 @@
 ## MSC in Statistical, Actuarial and Financial Sciences
 ### Quantitative analysis in financial, energy and insurance markets, risk management, and anything that mixes statistics with real-world problems.
 
-Python
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  
   <img src="https://img.shields.io/badge/SciKit--learn-F7931E?style=flat&logo=SciKit-learn&logoColor=white" alt="SciKit-learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/yFinance-007ACC?style=flat&logo=python&logoColor=white" alt="yFinance"/>
   
-R
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/ggplot2-E69F00?style=flat&logo=r&logoColor=white" alt="ggplot2"/>
   <img src="https://img.shields.io/badge/tidyverse-C01456?style=flat&logo=r&logoColor=white" alt="tidyverse"/>
 
-MS Office
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Word"/>
   <img src="https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
