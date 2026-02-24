@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572" alt="Header wave" height="120" style="display: block; margin: 0 auto;"/>
 
-## MSC in Statistical, Actuarial and Financial Sciences
-### Quantitative analysis in financial, energy and insurance markets, risk management, and anything that mixes statistics with real-world problems.
+## MSC in Statistics
+### Quantitative analysis in AI, financial / energy / insurance markets, risk management, and anything that mixes statistics with real-world problems.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   
