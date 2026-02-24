@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=34495e&height=120&section=header" alt="Header wave" style="display: block; margin: 0 auto;"/>
+
 ## MSC in Statistics
 ### Quantitative analysis in AI, financial / energy / insurance markets, risk management, and anything that mixes statistics with real-world problems.
 
