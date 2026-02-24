@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,ff6b6b,ffe66d&height=120&section=header" alt="Header wave" style="display: block; margin: 0 auto;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=34495e&height=120&section=header" alt="Header wave" style="display: block; margin: 0 auto;"/>
 ## MSC in Statistics
 ### Quantitative analysis in AI, financial / energy / insurance markets, risk management, and anything that mixes statistics with real-world problems.
 
@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/ggplot2-E69F00?style=flat&logo=r&logoColor=white" alt="ggplot2"/> <img src="https://img.shields.io/badge/tidyverse-C01456?style=flat&logo=r&logoColor=white" alt="tidyverse"/>
 
 
-<img src="https://camo.githubusercontent.com/682ee24d399302ceaaf729bdea6add49142b74d1f21ee784d31be7f129f63792/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d666f6f746572" alt="Footer wave" height="120" style="display: block; margin: 0 auto;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=34495e&height=120&section=footer" alt="Footer wave" style="display: block; margin: 0 auto;"/>
