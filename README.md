@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=62c89d&height=120&section=header" alt="Header wave" style="display: block; margin: 0 auto;"/>
 
 ## MSC in Statistics
-### Quantitative analysis in risk management & AI mainly for financial / energy / insurance markets. Vibin' with anything that mixes statistics with real-world problems.
+### Quantitative analysis in risk management & AI mainly for financial / energy / insurance markets. 
+### Vibin' with anything that mixes statistics with real-world problems.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
 
