@@ -1,5 +1,5 @@
 <!-- HEADER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=180&section=header" alt="Header wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=100&section=header" alt="Header wave"/>
 
 <div align="center">
 
@@ -50,11 +50,8 @@
 
 <br>
 
-</div>
-
----
-
 ## Featured Projects
+</div>
 
 ### Big Data
 - **PySpark Big Data Weather Analysis on Databricks (AWS S3)**  
@@ -75,31 +72,32 @@
 - **Worldwide Life Expectancy Analysis with Python**  
 - **Geographical Poverty Analysis in Italy with R**
 
----
 
-## 📌 Project Highlights (Deep Dive)
+<div align="center">
+  
+## Project Highlights (Deep Dive)
 
-### 🧠 AI Agents
+</div>
+
+### AI Agents
 - Built autonomous agents using **LLMs (Groq LLaMA 70B & Ollama)**
 - Automated financial and revenue analysis workflows
 - Integrated with **Streamlit for interactive dashboards**
 
-### 📉 Quant & Risk
+### Quant & Risk
 - Developed **VaR models on Brent Oil using ML**
 - Compared traditional vs ML approaches for nonlinear risk dynamics
 - Applied **Monte Carlo simulations in insurance**
 
-### ⚡ Big Data Engineering
+### Big Data Engineering
 - Processed NOAA data with **PySpark on Databricks**
 - Built data pipelines from **AWS S3 → Delta Lake**
 - Performed large-scale aggregations across geographies
 
-### 🌍 Applied Data Analysis
+### Applied Data Analysis
 - CO₂ emissions & climate insights
 - Socio-economic inequality (Italy poverty dataset)
 - Global health metrics (life expectancy)
 
----
-
 <!-- FOOTER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=180&section=footer" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=100&section=footer" alt="Footer wave"/>
