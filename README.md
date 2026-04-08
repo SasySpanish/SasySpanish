@@ -1,9 +1,11 @@
 <!-- HEADER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=100&section=header" alt="Header wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=135&section=header" alt="Header wave"/>
 
 <div align="center">
 
 ## MSC in Statistics
+</div>
+
 ### Quantitative analysis in risk management & AI mainly for financial / energy / insurance markets  
 ### Vibin' with anything that mixes statistics with real-world problems
 
@@ -49,7 +51,8 @@
 </p>
 
 <br>
-
+<div align="center">
+  
 ## Featured Projects
 </div>
 
@@ -101,4 +104,4 @@
 - Global health metrics (life expectancy)
 
 <!-- FOOTER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=100&section=footer" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=135&section=footer" alt="Footer wave"/>
