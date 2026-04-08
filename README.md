@@ -56,14 +56,14 @@
 ## Featured Projects
 </div>
 
-### Big Data
-- **[PySpark Big Data Weather Analysis on Databricks (AWS S3)](https://github.com/SasySpanish/NOAA-GSOD-Global-Weather-Analysis-with-PySpark-on-Databricks)**  
-
 ### AI & Automation
 - **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
 - **[AI Agent for Financial Analysis Automation with Ollama](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
 - **[Financial Data Analysis Automation with Python](https://github.com/SasySpanish/Financial-Data-Analysis-Automation-with-Python)**
 - **[LLM-Augmented Workflow with Ollama and LangChain for Revenue Analysis](https://github.com/SasySpanish/LLM-Augmented-Workflow-for-Revenue-Analysis-with-Ollama-and-Langchain)**
+
+### Big Data
+- **[PySpark Big Data Weather Analysis on Databricks (AWS S3)](https://github.com/SasySpanish/NOAA-GSOD-Global-Weather-Analysis-with-PySpark-on-Databricks)**  
 
 ### Data Science & Machine Learning
 - **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**  
@@ -89,17 +89,17 @@
 - Implemented full pipeline: **data ingestion (Yahoo Finance) → financial metrics (17+ KPIs) → multi-year trend analysis & CAGR → automated reporting**  
 - Enabled scalable analysis across **100+ companies and 10+ sectors** via prompt-based interaction  
 
-### Quantitative Finance & Risk Modeling
-- Developed **Value-at-Risk models on Brent Oil** using econometric and ML approaches with backtesting validation  
-- Demonstrated **superior performance of ML models (Boosting)** in capturing nonlinear risk dynamics and reducing forecast errors  
-- Applied **Monte Carlo simulations and classification models** in insurance use cases  
-- Built **customer risk segmentation (PCA + KMeans)** identifying underpriced high-risk clusters to support underwriting decisions  
-
 ### Big Data Engineering & Analytics
 - Engineered a **PySpark pipeline on Databricks** to process large-scale NOAA weather data from AWS S3  
 - Implemented **data lake architecture (Delta Lake + Parquet)** for efficient storage and querying  
 - Computed multi-level aggregations (**continent, country, city**) using Spark & Pandas  
 - Delivered insights through scalable visualizations (Matplotlib, Seaborn)  
+
+### Quantitative Finance & Risk Modeling
+- Developed **Value-at-Risk models on Brent Oil** using econometric and ML approaches with backtesting validation  
+- Demonstrated **superior performance of ML models (Boosting)** in capturing nonlinear risk dynamics and reducing forecast errors  
+- Applied **Monte Carlo simulations and classification models** in insurance use cases  
+- Built **customer risk segmentation (PCA + KMeans)** identifying underpriced high-risk clusters to support underwriting decisions  
 
 ### Machine Learning & Deep Learning
 - Trained a **ResNet-18 (transfer learning)** model in PyTorch for image classification  
