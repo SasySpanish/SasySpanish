@@ -66,7 +66,8 @@
 - **[PySpark Big Data Weather Analysis on Databricks (AWS S3)](https://github.com/SasySpanish/NOAA-GSOD-Global-Weather-Analysis-with-PySpark-on-Databricks)**  
 
 ### Data Science & Machine Learning
-- **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**  
+- **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**
+- **[ResNet Computer Vision Classifier with PyTorch](https://github.com/SasySpanish/Cat-Dog-ResNet-Vision-Classifier-with-PyTorch)**
 - **[Bitcoin Signal Prediction using Random Forest with Python](https://github.com/SasySpanish/Bitcoin-signal-prediction-using-Random-Forest-with-Python)**  
 - **[Insurance Customer Risk Segmentation with Python](https://github.com/SasySpanish/Insurance-Customer-Risk-Segmentation-with-Python)**  
 - **[Insurance Claims Classification & Monte Carlo Simulation with Python](https://github.com/SasySpanish/Insurance-Claims-Analysis-Classification-and-Monte-Carlo-Simulation-with-Python)**
@@ -75,7 +76,8 @@
 - **[CO₂ Historical Emissions Review with Python](https://github.com/SasySpanish/CO2-Historical-Emissions-Review-with-Python)**  
 - **[Worldwide Life Expectancy Analysis with Python](https://github.com/SasySpanish/Worldwide-Life-Expectancy-Analysis-with-Python)**  
 - **[Geographical Poverty Analysis in Italy with R](https://github.com/SasySpanish/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R)**
-
+- **[Automotive Sector Europe — Revenue Analysis](https://github.com/SasySpanish/EU-Car-Companies-Revenue-Analysis-with-Python)**
+- **[Energy Production and Coverage in Italy Report](https://github.com/SasySpanish/Electricity-Production-and-Coverage-analysis-in-Italy-with-Python)**
 
 <div align="center">
   
