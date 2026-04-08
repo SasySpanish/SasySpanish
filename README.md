@@ -1,5 +1,5 @@
 <!-- HEADER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=135&section=header" alt="Header wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=75&section=header" alt="Header wave"/>
 
 <div align="center">
 
@@ -104,4 +104,4 @@
 - Global health metrics (life expectancy)
 
 <!-- FOOTER (più alto) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=135&section=footer" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=75&section=footer" alt="Footer wave"/>
