@@ -54,23 +54,23 @@
 </div>
 
 ### Big Data
-- **PySpark Big Data Weather Analysis on Databricks (AWS S3)**  
+- **[PySpark Big Data Weather Analysis on Databricks (AWS S3)](https://github.com/SasySpanish/NOAA-GSOD-Global-Weather-Analysis-with-PySpark-on-Databricks)**  
 
 ### AI & Automation
-- **AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit**  
-- **AI Agent for Financial Analysis Automation with Ollama**  
-- **Financial Data Analysis Automation with Python**
+- **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
+- **[AI Agent for Financial Analysis Automation with Ollama](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
+- **[Financial Data Analysis Automation with Python](https://github.com/SasySpanish/Financial-Data-Analysis-Automation-with-Python)**
 
 ### Data Science & Machine Learning
-- **Brent Oil VaR using Machine Learning with Python (Master Thesis)**  
-- **Bitcoin Signal Prediction using Random Forest with Python**  
-- **Insurance Customer Risk Segmentation with Python**  
-- **Insurance Claims Classification & Monte Carlo Simulation with Python**
+- **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**  
+- **[Bitcoin Signal Prediction using Random Forest with Python](https://github.com/SasySpanish/Bitcoin-signal-prediction-using-Random-Forest-with-Python)**  
+- **[Insurance Customer Risk Segmentation with Python](https://github.com/SasySpanish/Insurance-Customer-Risk-Segmentation-with-Python)**  
+- **[Insurance Claims Classification & Monte Carlo Simulation with Python](https://github.com/SasySpanish/Insurance-Claims-Analysis-Classification-and-Monte-Carlo-Simulation-with-Python)**
 
 ### Data Analysis & Real-World Insights
-- **CO₂ Historical Emissions Review with Python**  
-- **Worldwide Life Expectancy Analysis with Python**  
-- **Geographical Poverty Analysis in Italy with R**
+- **[CO₂ Historical Emissions Review with Python](https://github.com/SasySpanish/CO2-Historical-Emissions-Review-with-Python)**  
+- **[Worldwide Life Expectancy Analysis with Python](https://github.com/SasySpanish/Worldwide-Life-Expectancy-Analysis-with-Python)**  
+- **[Geographical Poverty Analysis in Italy with R](https://github.com/SasySpanish/Geographical-Data-Analysis-of-Poverty-in-Italy-with-R)**
 
 
 <div align="center">
