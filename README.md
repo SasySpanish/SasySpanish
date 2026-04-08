@@ -60,6 +60,7 @@
 - **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
 - **[AI Agent for Financial Analysis Automation with Ollama](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
 - **[Financial Data Analysis Automation with Python](https://github.com/SasySpanish/Financial-Data-Analysis-Automation-with-Python)**
+- **[LLM-Augmented Workflow with Ollama and LangChain for Revenue Analysis](https://github.com/SasySpanish/LLM-Augmented-Workflow-for-Revenue-Analysis-with-Ollama-and-Langchain)**
 
 ### Data Science & Machine Learning
 - **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**  
