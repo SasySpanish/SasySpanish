@@ -1,11 +1,14 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=120&section=header" alt="Header wave"/>
+<!-- HEADER (più alto) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=180&section=header" alt="Header wave"/>
 
 <div align="center">
 
 ## MSC in Statistics
 ### Quantitative analysis in risk management & AI mainly for financial / energy / insurance markets  
 ### Vibin' with anything that mixes statistics with real-world problems
+
+<br>
+
 <br>
 
 <!-- Row 1 -->
@@ -49,5 +52,54 @@
 
 </div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=120&section=footer" alt="Footer wave"/>
+---
+
+## Featured Projects
+
+### Big Data
+- **PySpark Big Data Weather Analysis on Databricks (AWS S3)**  
+
+### AI & Automation
+- **AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit**  
+- **AI Agent for Financial Analysis Automation with Ollama**  
+- **Financial Data Analysis Automation with Python**
+
+### Data Science & Machine Learning
+- **Brent Oil VaR using Machine Learning with Python (Master Thesis)**  
+- **Bitcoin Signal Prediction using Random Forest with Python**  
+- **Insurance Customer Risk Segmentation with Python**  
+- **Insurance Claims Classification & Monte Carlo Simulation with Python**
+
+### Data Analysis & Real-World Insights
+- **CO₂ Historical Emissions Review with Python**  
+- **Worldwide Life Expectancy Analysis with Python**  
+- **Geographical Poverty Analysis in Italy with R**
+
+---
+
+## 📌 Project Highlights (Deep Dive)
+
+### 🧠 AI Agents
+- Built autonomous agents using **LLMs (Groq LLaMA 70B & Ollama)**
+- Automated financial and revenue analysis workflows
+- Integrated with **Streamlit for interactive dashboards**
+
+### 📉 Quant & Risk
+- Developed **VaR models on Brent Oil using ML**
+- Compared traditional vs ML approaches for nonlinear risk dynamics
+- Applied **Monte Carlo simulations in insurance**
+
+### ⚡ Big Data Engineering
+- Processed NOAA data with **PySpark on Databricks**
+- Built data pipelines from **AWS S3 → Delta Lake**
+- Performed large-scale aggregations across geographies
+
+### 🌍 Applied Data Analysis
+- CO₂ emissions & climate insights
+- Socio-economic inequality (Italy poverty dataset)
+- Global health metrics (life expectancy)
+
+---
+
+<!-- FOOTER (più alto) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=180&section=footer" alt="Footer wave"/>
