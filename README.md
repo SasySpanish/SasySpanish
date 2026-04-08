@@ -83,25 +83,33 @@
 
 </div>
 
-### AI Agents
-- Built autonomous agents using **LLMs (Groq LLaMA 70B & Ollama)**
-- Automated financial and revenue analysis workflows
-- Integrated with **Streamlit for interactive dashboards**
+### AI Agents & Automation
+- Designed and deployed **LLM-powered agents (Groq LLaMA 70B & Ollama Qwen 2.5)** for automated financial and revenue analysis  
+- Built a **Streamlit web app** with interactive Plotly dashboards for real-time user-driven analysis  
+- Implemented full pipeline: **data ingestion (Yahoo Finance) → financial metrics (17+ KPIs) → multi-year trend analysis & CAGR → automated reporting**  
+- Enabled scalable analysis across **100+ companies and 10+ sectors** via prompt-based interaction  
 
-### Quant & Risk
-- Developed **VaR models on Brent Oil using ML**
-- Compared traditional vs ML approaches for nonlinear risk dynamics
-- Applied **Monte Carlo simulations in insurance**
+### Quantitative Finance & Risk Modeling
+- Developed **Value-at-Risk models on Brent Oil** using econometric and ML approaches with backtesting validation  
+- Demonstrated **superior performance of ML models (Boosting)** in capturing nonlinear risk dynamics and reducing forecast errors  
+- Applied **Monte Carlo simulations and classification models** in insurance use cases  
+- Built **customer risk segmentation (PCA + KMeans)** identifying underpriced high-risk clusters to support underwriting decisions  
 
-### Big Data Engineering
-- Processed NOAA data with **PySpark on Databricks**
-- Built data pipelines from **AWS S3 → Delta Lake**
-- Performed large-scale aggregations across geographies
+### Big Data Engineering & Analytics
+- Engineered a **PySpark pipeline on Databricks** to process large-scale NOAA weather data from AWS S3  
+- Implemented **data lake architecture (Delta Lake + Parquet)** for efficient storage and querying  
+- Computed multi-level aggregations (**continent, country, city**) using Spark & Pandas  
+- Delivered insights through scalable visualizations (Matplotlib, Seaborn)  
 
-### Applied Data Analysis
-- CO₂ emissions & climate insights
-- Socio-economic inequality (Italy poverty dataset)
-- Global health metrics (life expectancy)
+### Machine Learning & Deep Learning
+- Trained a **ResNet-18 (transfer learning)** model in PyTorch for image classification  
+- Achieved **~98% validation accuracy** on a 20k image dataset  
+- Evaluated model robustness using **confusion matrix and ROC curve**  
 
+### Applied Data Analysis & Automation
+- Built an **end-to-end financial data pipeline** (yFinance → cleaning → EDA → feature engineering → visualization → reporting)  
+- Reduced analysis time by **~50% through automation and reusable workflows**  
+- Conducted **CO₂ emissions and global life expectancy analysis** extracting macro-level insights  
+- Performed **geospatial poverty analysis in Italy (R)** using mapping, spatial visualization and regression models to uncover territorial disparities  
 <!-- FOOTER (più alto) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=498aaf&height=95&section=footer" alt="Footer wave"/>
