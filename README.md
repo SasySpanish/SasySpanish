@@ -75,7 +75,7 @@
 
 <div align="center">
   
-## Project Highlights (Deep Dive)
+## Highlights
 
 </div>
 
