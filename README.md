@@ -41,8 +41,8 @@ Currently workin on Agentic deployment, Big Data and Cloud
 </div>
 
 ### AI & Automation
-- **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) & Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
-- **[AI Agent for Financial Analysis Automation with Ollama](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
+- **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) on Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
+- **[AI Agent for Financial Analysis Automation with Ollama (Qwen2.5 3B)](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
 - **[Financial Data Analysis Automation with Python](https://github.com/SasySpanish/Financial-Data-Analysis-Automation-with-Python)**
 - **[LLM-Augmented Workflow with Ollama and LangChain for Revenue Analysis](https://github.com/SasySpanish/LLM-Augmented-Workflow-for-Revenue-Analysis-with-Ollama-and-Langchain)**
 
@@ -50,7 +50,7 @@ Currently workin on Agentic deployment, Big Data and Cloud
 - **[PySpark Big Data Weather Analysis on Databricks (AWS S3)](https://github.com/SasySpanish/NOAA-GSOD-Global-Weather-Analysis-with-PySpark-on-Databricks)**  
 
 ### Data Science & Machine Learning
-- **[Brent Oil VaR using Machine Learning with Python (Master Thesis)](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python)**
+- **[Brent Oil VaR using Machine Learning with Python](https://github.com/SasySpanish/Brent-Oil-VaR-using-Machine-Learning-with-Python) (Master Thesis)**
 - **[ResNet Computer Vision Classifier with PyTorch](https://github.com/SasySpanish/Cat-Dog-ResNet-Vision-Classifier-with-PyTorch)**
 - **[Bitcoin Signal Prediction using Random Forest with Python](https://github.com/SasySpanish/Bitcoin-signal-prediction-using-Random-Forest-with-Python)**  
 - **[Insurance Customer Risk Segmentation with Python](https://github.com/SasySpanish/Insurance-Customer-Risk-Segmentation-with-Python)**  
