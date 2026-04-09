@@ -6,7 +6,8 @@
 ## MSC in Statistics
 </div>
 
-### Quantitative AI analysis in Risk, Finance, Insurance. Currently workin on Agentic deployment, Big Data and Cloud
+### Quantitative AI analysis in Risk, Finance, Insurance. 
+Currently workin on Agentic deployment, Big Data and Cloud
 
 <div align="center">
 
