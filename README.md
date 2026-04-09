@@ -6,9 +6,8 @@
 ## MSC in Statistics
 </div>
 
-### Quantitative analysis in risk management & AI mainly for financial / energy / insurance markets  
+### Quantitative AI analysis in risk, finance, insurance
 ### Vibin' with anything that mixes statistics with real-world problems
-
 <br>
 
 <br>
