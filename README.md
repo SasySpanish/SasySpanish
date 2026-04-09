@@ -6,8 +6,8 @@
 ## MSC in Statistics
 </div>
 
-### Quantitative AI analysis in risk, finance, insurance
-### Vibin' with anything that mixes statistics with real-world problems
+### Quantitative AI analysis in Risk, Finance, Insurance. Currently workin on Agentic deployment, Big Data and Cloud
+
 <br>
 
 <br>
