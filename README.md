@@ -41,6 +41,7 @@ Currently workin on Agentic deployment, Big Data and Cloud
 </div>
 
 ### AI & Automation
+- **[Insurance Life Policy Simulator](https://github.com/SasySpanish/Insurance_Life_Policies)**
 - **[AI Agent for Revenue Analysis with Groq (LLaMA 70B) on Streamlit](https://github.com/SasySpanish/AI-Agent-for-Revenue-Analysis-with-Groq-on-StreamLit)**  
 - **[AI Agent for Financial Analysis Automation with Ollama (Qwen2.5 3B)](https://github.com/SasySpanish/AI-Agent-for-Financial-Analysis-Automation-with-Python)**  
 - **[Financial Data Analysis Automation with Python](https://github.com/SasySpanish/Financial-Data-Analysis-Automation-with-Python)**
